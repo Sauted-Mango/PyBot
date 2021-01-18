@@ -35,6 +35,7 @@ There are by far better (and more complete) bots out there, but this is a fun pr
 - MAJOR:
   - convert current data storage method into a single database for ease of use and modularity
     > although the current method is a bit more platform agnostic and easier for an end user/average operator
+  - add documentation for both the main bot and formatting standards/recommendations for optional cogs
 
 **Potential Command Ideas**
    > These will be available as optional cogs in a separate repository for use in this bot
